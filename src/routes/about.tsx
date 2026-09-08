@@ -44,9 +44,9 @@ function AboutPage() {
 
       <div className="mt-12 grid gap-6 sm:grid-cols-3">
         {[
-          { value: "15+", label: "Years of Experience" },
+          { value: "15+", label: "Years Since Establishment" },
           { value: "30+", label: "Years Combined Expertise" },
-          { value: "100+", label: "Brands Served" },
+          { value: "50+", label: "Brands Served" },
         ].map((stat) => (
           <div key={stat.label} className="rounded-xl border border-border bg-card p-6 text-center">
             <p className="text-3xl font-bold text-primary">{stat.value}</p>

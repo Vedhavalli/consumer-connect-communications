@@ -36,10 +36,10 @@ function HomePage() {
         <div className="mt-12 grid grid-cols-1 sm:grid-cols-3 gap-6 text-center">
           <div className="animate-fade-in" style={{ animationDelay: '0.2s' }}>
             <p className="text-2xl font-bold text-primary">15+</p>
-            <p className="text-sm text-muted-foreground">Years of Experience</p>
+            <p className="text-sm text-muted-foreground">Years Since Establishment</p>
           </div>
           <div className="animate-fade-in" style={{ animationDelay: '0.4s' }}>
-            <p className="text-2xl font-bold text-primary">100+</p>
+            <p className="text-2xl font-bold text-primary">50+</p>
             <p className="text-sm text-muted-foreground">Brands Served</p>
           </div>
           <div className="animate-fade-in" style={{ animationDelay: '0.6s' }}>
